@@ -1,4 +1,4 @@
-# antalyatransfers-co
+# AntalyaTransfers.co
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,139 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-antalyatransfers-co is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://antalyatransfers.co/
+AntalyaTransfers.co is an online booking platform for private airport, hotel and medical transfers in Antalya, Turkey. Operated by Dmitry Kulish, an individual entrepreneur in Georgia, the service offers fixed-price rides in over 20 languages, flight tracking, 24/7 WhatsApp support, and coverage across Antalya and nearby resort areas such as Belek, Side, Alanya, Kemer, Kaş, Lara Beach and Konyaaltı. Customers can book via voice or text, pay the driver on arrival, and choose from a fleet of vetted drivers. The platform also provides a blog with travel guides and a 2026 price list.
+
+**Areas:** Transportation · Travel · Booking · Turkey · Taxi
+
+## AntalyaTransfers.co on APIs.io
+
+Everything profiled for AntalyaTransfers.co is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/antalyatransfers-co/](https://apis.io/providers/antalyatransfers-co/)** — or go straight to one of the APIs or properties below.
+
+### APIs (4)
+
+- [AntalyaTransfers.co Fx API](https://apis.io/apis/antalyatransfers-co/antalyatransfers-co-fx-api/) — The Fx API from AntalyaTransfers.co — 1 operation(s) for fx.
+- [AntalyaTransfers.co Locations API](https://apis.io/apis/antalyatransfers-co/antalyatransfers-co-locations-api/) — The Locations API from AntalyaTransfers.co — 2 operation(s) for locations.
+- [AntalyaTransfers.co Pricing API](https://apis.io/apis/antalyatransfers-co/antalyatransfers-co-pricing-api/) — The Pricing API from AntalyaTransfers.co — 1 operation(s) for pricing.
+- [AntalyaTransfers.co Status API](https://apis.io/apis/antalyatransfers-co/antalyatransfers-co-status-api/) — The Status API from AntalyaTransfers.co — 1 operation(s) for status.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Antalyatransfers Co Agentic Access](https://apis.io/agentic-access/antalyatransfers-co/antalyatransfers-co-agentic-access/)
+
+#### JSON Schema (2)
+
+The data models the API reads and writes.
+
+- [PriceEstimateRequest](https://apis.io/schemas/antalyatransfers-co/antalyatransfers-co-price-estimate-request/)
+- [PriceEstimateResponse](https://apis.io/schemas/antalyatransfers-co/antalyatransfers-co-price-estimate-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Antalyatransfers Co Context](https://apis.io/jsonld/antalyatransfers-co/antalyatransfers-co-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [AntalyaTransfers.co API Rules](https://apis.io/rules/antalyatransfers-co/antalyatransfers-co-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Antalyatransfers Co Authentication](https://apis.io/security/antalyatransfers-co/antalyatransfers-co-authentication/)
+- [Antalyatransfers Co Domain Security](https://apis.io/security/antalyatransfers-co/antalyatransfers-co-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Antalyatransfers Co Scopes](https://apis.io/scopes/antalyatransfers-co/antalyatransfers-co-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Antalyatransfers Co Plans Pricing](https://apis.io/plans/antalyatransfers-co/antalyatransfers-co-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Antalyatransfers Co Rate Limits](https://apis.io/rate-limits/antalyatransfers-co/antalyatransfers-co-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://antalyatransfers.co/)
+- [Getting started](https://antalyatransfers.co/en#how-it-works)
+- [Pricing](https://antalyatransfers.co/en#pricing)
+- [Support](https://wa.me/905315972234?text=Hi%2C%20I%20need%20help%20with%20my%20transfer%20booking.)
+- [Blog](https://antalyatransfers.co/en/blog)
+- [Terms of service](https://antalyatransfers.co/en/terms)
+- [Privacy policy](https://antalyatransfers.co/en/privacy)
+
+## API Evangelist rating
+
+**Kin Score 44.3** — developing · rubric 0.26.0 · scored 2026-11-01
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 52.1 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 35.0 |
+| Access clarity | 31.6 |
+
+**Agent readiness 38.3** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 28.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/antalyatransfers-co/](https://apis.io/providers/antalyatransfers-co/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AntalyaTransfers.co: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/antalyatransfers-co/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
